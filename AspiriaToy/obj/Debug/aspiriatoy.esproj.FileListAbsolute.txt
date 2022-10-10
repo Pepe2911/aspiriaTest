@@ -1,0 +1,2 @@
+C:\Users\Pepe\source\repos\AspiriaToy\AspiriaToy\obj\Debug\aspiriatoy.esproj.SuggestedBindingRedirects.cache
+C:\Users\Pepe\source\repos\AspiriaToy\AspiriaToy\obj\Debug\aspiriatoy.esproj.CoreCompileInputs.cache
